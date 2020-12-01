@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#38E112</color>
+    <color name="colorText">@color/india_background</color>
+    <color name="fons">#303F9F</color>
+    <color name="buttonColor">#FF5722</color>
+    <color name="disableColor">#C10D0D</color>
+</resources>
